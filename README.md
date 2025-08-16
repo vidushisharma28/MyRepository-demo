@@ -1,4 +1,4 @@
 # MyRepository-demo
 This is my first Git repository
 <br>
-My name is vidushi
+My name is vidushi sharma
